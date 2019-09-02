@@ -5,16 +5,11 @@
 
 pkg install figlet
 pkg install Ruby
-gem lolcat
+gem install lolcat
 pkg install toilet
 gem install lolcat
 pip2 install requests
 pip2 install mechanize
-
-clear
-printf "  \e[101m\e[1;77m  :::::::::>>>WELCOME<<<:::::::::\e[0m\n"
-printf "  \e[101m\e[1;77m :::SEMOGA SELAMAT SAMPAI TUJUAN:::\e[0m\n"
-
 
 clear
 # Variables
