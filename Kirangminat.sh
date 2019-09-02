@@ -28,14 +28,6 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-
-figlet -f slant "RandiSr" | lolcat
-
-echo "--------------------------------" | lolcat
-echo " > Author    :Randioloy   " | lolcat
-echo " > Kontak me :081290587***" | lolcat
-echo "--------------------------------" | lolcat
-
 sleep 1
 
 ###################################################
