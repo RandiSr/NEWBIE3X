@@ -62,7 +62,7 @@ do
 echo -e $g"       ||||||BILA SAKIT HUBUNGI DOKTER|||||"
 sleep 2
 echo -e $g" _______________________________________________________ "
-echo -e $g "   [ 1] Lacak Ip${enda}";
+echo -e $g "   [ 1] Lacak Orang${enda}";
 echo -e $g "   [ 2] Script Deface${endc}";
 echo -e $g "   [ 3] Hack Fb    ${endc}";
 echo -e $g "   [ 4] Install Metasploit ${endc}";
