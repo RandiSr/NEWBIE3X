@@ -1,5 +1,6 @@
 
-# TOLS SUDAH DI PERBAIKI
+# TOLS BARU DI UPDATE
+Selamat Mencoba
 - command
 - pkg upgrade && pkg update
 - pkg install python2
