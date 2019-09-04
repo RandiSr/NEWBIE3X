@@ -7,5 +7,5 @@
 - git clone https://github.com/RandiSr/NEWBIE3X
 - cd NEWBIE3X
 - bash nuub3x.sh
-# Kontak ig @RanOloy
+# Ig @RanOloy
 # Jangan Recode Hargai karya orang
