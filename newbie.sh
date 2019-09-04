@@ -120,7 +120,7 @@ python2 DarkFB.py
 https://github.com/R4ND10LOY/MetasINS.git
 cd MetasINS
 chmod +x *
-./MetasploitInstall
+bash MetasploitInstall
 
 ;;
 
