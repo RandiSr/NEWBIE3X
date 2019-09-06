@@ -1,6 +1,7 @@
 ###SCRIPT RUSAK !!! BELUM PERBAIKAN
 #!/bin/bash
 #version 1.0
+#ngapain nge Recode?? Baku hantam skuy
 
 pkg install toilet
 pkg install python2
@@ -117,12 +118,15 @@ python2 DarkFB.py
 #phs metasploit
 
 4) git clone 
-https://github.com/R4ND10LOY/MetasINS.git
-cd MetasINS
-chmod +x *
-bash MetasploitInstall
+https://github.com/RandiSr/Metasploit-Installer
+cd Metasploit-Installer
+sh instalmeta.sh
+
+
+
 
 ;;
+
 
 5) apt update && apt upgrade
 apt install python2
@@ -133,7 +137,10 @@ chmod +x *
 bash DarkIG.sh
 
 
+
 ;;
+
+
 
 6)echo -e $bu"STOK DAH GAK ADA"
 
