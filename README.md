@@ -7,6 +7,6 @@ Selamat Mencoba
 - pkg install git
 - git clone https://github.com/RandiSr/NEWBIE3X
 - cd NEWBIE3X
-- bash newbie.sh
+- bash newbie3x.sh
 # Ig @RanOloy
 # Jangan Recode Hargai karya orang
